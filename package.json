@@ -13,12 +13,12 @@
   "devDependencies": {
     "cross-env": "^5.2.1",
     "react-hot-loader": "^4.12.21",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.3"
   },
   "dependencies": {
-    "@vkontakte/icons": "^1.27.0",
-    "@vkontakte/vk-bridge": "^2.2.2",
-    "@vkontakte/vkui": "^3.11.3",
+    "@vkontakte/icons": "^1.41.0",
+    "@vkontakte/vk-bridge": "^2.2.8",
+    "@vkontakte/vkui": "^3.12.6",
     "core-js": "^2.6.11",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
